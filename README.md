@@ -4,7 +4,13 @@
 
 一杯水，一口蔬果。用几秒钟记录日常饮水和蔬果摄入，让每一次照顾自己的小行动，都变成植物的新芽。
 
-[下载 Android 安装包](https://github.com/Guo-4869/AquaVeg/releases/download/v0.2.0/AquaVeg-0.2.0.apk) · [版本与更新](https://github.com/Guo-4869/AquaVeg/releases) · [安装说明](INSTALL.md) · [问题反馈](https://github.com/Guo-4869/AquaVeg/issues)
+[下载 Android 安装包](https://github.com/Guo-4869/AquaVeg/releases/download/v0.3.0/AquaVeg-0.3.0.apk) · [版本与更新](https://github.com/Guo-4869/AquaVeg/releases) · [安装说明](INSTALL.md) · [English](README.en.md) · [问题反馈](https://github.com/Guo-4869/AquaVeg/issues)
+
+## 语言 / Language
+
+在“我的设置 → 语言 / Language”选择简体中文或 English，立即生效，重启后保留。页面、树苗问候、弹窗、安卓活动通知和原生提示同步切换；现有记录、目标和提醒计时保持不变。系统权限弹窗与外部资料仍使用系统或原文语言。
+
+<img src="images/english-home.png" width="300" alt="使用虚构记录制作的英文界面示例" />
 
 ## 轻一点，也能坚持
 
@@ -30,9 +36,9 @@
 
 ## 当前版本
 
-**v0.2.0 · Android 测试版**，支持 Android 9 及以上。
+**v0.3.0 · Android 测试版**，支持 Android 9 及以上。
 
-0.1.0 曾由用户在 **Magic8 / Android 17** 上完成真机验证；本次 0.2.0 新功能仍待真机验收。不同系统和机型的表现仍可能不同，欢迎通过 Issues 反馈使用体验。
+0.1.0 曾由用户在 **Magic8 / Android 17** 上完成真机验证；本次 0.3.0 语言功能仍待真机验收。不同系统和机型的表现仍可能不同，欢迎通过 Issues 反馈使用体验。
 
 久坐活动提醒支持安卓系统通知和短震动，可设间隔与时段，并在通知中选择“已活动”或“10 分钟后”。需允许通知；省电、勿扰及系统通知设置可能延迟提醒或关闭震动，强行停止应用后需重新打开。饮水提醒仍仅在前台页面运行。小组件、拍照识别和家人协同暂未提供。
 
